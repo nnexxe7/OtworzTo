@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-image: url('images/Obr2.png');
+  background-size: cover; /
+}
+
+#photo {
+  max-width: 100%;
+  height: auto;
+}
+
+#buttons {
+  margin-top: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#yes {
+  background-color: #4caf50;
+  color: white;
+}
+
+#no {
+  background-color: #f44336;
+  color: white;
+}
